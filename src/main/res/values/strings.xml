@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My First App</string>
+
+    <string-array name="kelas">
+        <item>-- Pilih --</item>
+        <item>TEKNIK INFORMATIKA</item>
+        <item>MANAJEMEN INFORMATIKA</item>
+        <item>SISTEM INFORMASI</item>
+        <item>TEKNIK KOMPUTER</item>
+    </string-array>
+</resources>
